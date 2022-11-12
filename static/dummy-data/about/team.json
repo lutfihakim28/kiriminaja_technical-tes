@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Budi Isman",
+    "position": "President Commisioner",
+    "image": "budi_isman.jpg"
+  },
+  {
+    "name": "Fariz GTJ",
+    "position": "Chief Excecutive Officer & Founder",
+    "image": "fariz_gtj.jpg"
+  },
+  {
+    "name": "Muhammad Irfan H",
+    "position": "Chief Technology Officer & Founder",
+    "image": "muh_irfan_herawan.jpg"
+  },
+  {
+    "name": "Paras M. Nasution",
+    "position": "Chief Operation Officer",
+    "image": "paras_nasution.jpg"
+  },
+  {
+    "name": "Arief Ardinugroho",
+    "position": "Chief Marketing Officer",
+    "image": "arief_ardinugroho.jpg"
+  }
+]

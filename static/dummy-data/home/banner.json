@@ -1,0 +1,24 @@
+[
+  {
+    "image": "slider-1.png",
+    "type": "info",
+    "title": "November Untung Bener!",
+    "description": "Cuman kirim paket bisa dapetin Sepeda atau SmartTV, affah iyah? Iyah, SahabatKA! Mau kan? Nah, makanya yuk tingkatkan pengirimanmu di November ini!",
+    "benefit": [
+      "3 Sepeda Lipat Pasific Blitz",
+      "Samsung Smart TV 32",
+      "10 Hadiah Hiburan"
+    ]
+  },
+  {
+    "image": "slider-2.png",
+    "type": "info",
+    "title": "Gebyar Pesta Pora KiriminAja",
+    "description": "Cara cerdas KIRIM PAKET pakai KiriminAja banyak diskon dan dapatkan peluang bawa pulang hadiahnya. Yuk buruan daftar dan kirim paketmu sekarang!",
+    "benefit": [
+      "Tanpa Biaya Pendaftaran",
+      "Bebas Pilih Ekspedisi",
+      "Banyak Hadiahnya"
+    ]
+  }
+]

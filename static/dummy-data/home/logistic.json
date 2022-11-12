@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Anteraja",
+    "image": "anteraja.png"
+  },
+  {
+    "name": "Gosend",
+    "image": "gosend.png"
+  },
+  {
+    "name": "Grab Express",
+    "image": "grab_express.png"
+  },
+  {
+    "name": "iD Express",
+    "image": "idx.png"
+  },
+  {
+    "name": "JNE",
+    "image": "jne.png"
+  },
+  {
+    "name": "NCS",
+    "image": "ncs.png"
+  },
+  {
+    "name": "SAP",
+    "image": "sap.png"
+  },
+  {
+    "name": "Sentral",
+    "image": "sentral.png"
+  },
+  {
+    "name": "Sicepat",
+    "image": "sicepat.png"
+  },
+  {
+    "name": "JNT",
+    "image": "jnt.png"
+  }
+]
